@@ -1,5 +1,7 @@
 def build_word_grid(word):
     lower = word.lower()
     upper = word.upper()
+    result = []
     for i in range(len(word)):
-        yield lower[0:i] + upper[i] + lower[i+1:] 
+        result.append( lower[0:i] + upper[i] + lower[i+1:] )
+    return result
