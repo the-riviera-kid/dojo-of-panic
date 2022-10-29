@@ -1,0 +1,9 @@
+Please enter a word: 
+Ha ha ha
+hA ha ha
+ha ha ha
+ha Ha ha
+ha hA ha
+ha ha ha
+ha ha Ha
+ha ha hA

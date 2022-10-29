@@ -1,0 +1,11 @@
+Please enter a word: 
+Pencilcase
+pEncilcase
+peNcilcase
+penCilcase
+pencIlcase
+penciLcase
+pencilCase
+pencilcAse
+pencilcaSe
+pencilcasE

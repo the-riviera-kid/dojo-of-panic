@@ -1,0 +1,9 @@
+Please enter a word: 
+Boogaloo
+bOogaloo
+boOgaloo
+booGaloo
+boogAloo
+boogaLoo
+boogalOo
+boogaloO
